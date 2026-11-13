@@ -80,7 +80,7 @@ if(isset($_POST['submit'])){
     .form{
         margin: 150px auto;
         width: 400px;
-        padding: 40px 45px;
+        padding: 40px 45gpx;
         background-color: #fff;
         border-radius: 5px;
         box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
